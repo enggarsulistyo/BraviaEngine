@@ -1,0 +1,7 @@
+id=bravia
+name=Bravia Engine
+version=v4.0
+versionCode=4
+author=Enggar Sulistyo
+description=The Sony Mobile Bravia Engine 4.
+minMagisk=17000
