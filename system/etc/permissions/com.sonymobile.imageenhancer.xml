@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <library name="com.sonymobile.imageenhancer.api_1"
+             file="/system/framework/com.sonymobile.imageenhancer_impl.jar"/>
+</permissions>

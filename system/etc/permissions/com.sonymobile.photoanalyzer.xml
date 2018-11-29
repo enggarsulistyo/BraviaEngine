@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+ <library name="com.sonymobile.photoanalyzer.api" file="/system/framework/com.sonymobile.photoanalyzer_impl.jar"/>
+ <library name="com.sonymobile.photoanalyzer.api_3" file="/system/framework/com.sonymobile.photoanalyzer_impl.jar"/>
+ <library name="com.sonymobile.photoanalyzer.api_4" file="/system/framework/com.sonymobile.photoanalyzer_impl.jar"/>
+ <library name="com.sonymobile.photoanalyzer.api_5" file="/system/framework/com.sonymobile.photoanalyzer_impl.jar"/>
+ <library name="com.sonymobile.photoanalyzer.api_6" file="/system/framework/com.sonymobile.photoanalyzer_impl.jar"/>
+</permissions>
+
