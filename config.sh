@@ -44,8 +44,8 @@ LATESTARTSERVICE=true
 
 print_modname() {
   ui_print "*******************************"
-  ui_print "      Bravia Engine 4       "
-  ui_print "    By: Enggar Sulistyo     "
+  ui_print "     Sony Bravia Engine      "
+  ui_print "     By: Enggar Sulistyo     "
   ui_print "*******************************"
 }
 
