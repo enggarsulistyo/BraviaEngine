@@ -1,4 +1,4 @@
-# BraviaEngine Module for Magisk
+# Sony Bravia Engine X-Reality
 # Version : 4.0
 # By : Enggar Sulistyo
 
@@ -15,4 +15,5 @@ Note :
 This module is still under development
 If a bootloop occurs install the magisk uninstaller
 
-# Link : fb.me/bheb.van
+# Link : https://fb.me/bheb.van
+#        https://github.com/enggarsulistyo/BraviaEngine
