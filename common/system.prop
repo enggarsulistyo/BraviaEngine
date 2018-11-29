@@ -1,0 +1,41 @@
+# This file will be read by resetprop
+# Example: Change dpi
+# ro.sf.lcd_density=320
+# Bravia Engine
+
+persist.service.lgospd.enable=0
+persist.service.pcsync.enable=0
+persist.sys.scrollingcache=3
+ro.max.fling_velocity=12000
+ro.min.fling_velocity=8000
+windowsmgr.max_events_per_sec=90
+touch.deviceType=touchScreen
+touch.orientationAware=1
+ro.media.enc.jpeg.quality=100
+ro.media.dec.jpeg.memcap=8000000
+ro.media.enc.hpsetprop rof.vid.bps=8000000
+ro.media.capture.maxres=8m
+ro.media.panorama.defres=3264x1840
+ro.media.panorama.frameres=1280x720
+ro.camcorder.videoModes=true
+ro.media.enc.hprof.vid.fps=60
+ro.media.dec.aud.wma.enabled=1
+ro.media.dec.vid.wmv.enabled=1
+ro.media.cam.preview.fps=0
+ro.media.codec_priority_for_thumb=so
+ro.media.capture.flash=led
+ro.media.capture.flashMinV=3300000
+ro.media.capture.torchIntensity=40
+ro.media.capture.flashIntensity=70
+ro.media.capture.fast.fps=4
+ro.media.capture.slow.fps=120
+ro.service.swiqi3.supported=true
+persist.service.swiqi3.enable=1
+ro.service.xrfm.supported=true
+persist.service.xrfm.mode=2
+sys.swiqi.service.boot=1
+ro.service.swiqi.supported=true
+persist.service.swiqi.enable=1
+ro.service.swiqi2.supported=true
+persist.service.swiqi2.enable=1
+ro.service.xrfm.supported=true
