@@ -12,8 +12,8 @@ Sony's X-Reality™ for mobile technology improves the viewing quality of photos
 
 
 Note :
-This module is still under development
+- Busybox installed required
+- This module is still under development
 If a bootloop occurs install the magisk uninstaller
 
-# Link : https://fb.me/bheb.van
-#        https://github.com/enggarsulistyo/BraviaEngine
+https://github.com/enggarsulistyo/BraviaEngine
