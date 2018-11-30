@@ -16,4 +16,5 @@ Note :
 - This module is still under development
 If a bootloop occurs install the magisk uninstaller
 
-https://github.com/enggarsulistyo/BraviaEngine
+Secure Code : https://github.com/sonyxperiadev
+Link        : https://github.com/enggarsulistyo/BraviaEngine
