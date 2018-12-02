@@ -1,6 +1,6 @@
-# Sony Bravia Engine X-Reality
-# Version : 4.0
-# By : Enggar Sulistyo
+#### Sony Bravia Engine X-Reality
+#### Version : 4.0
+#### By : Enggar Sulistyo
 
 The Sony Mobile BRAVIA Engine 4 is a video enhancement program for Sony phones. It uses filters and algorithms to create a clearer and more contrasted picture and an overall smoother experience.
 This is perfect for the Note II's huge HD screen but can be a little to saturated for people like photographers who want to see how the photo looks exactly with out any enhancements.
@@ -16,6 +16,6 @@ Note :
 - This module is still under development
 
 
-Secure Code : https://github.com/sonyxperiadev
+Secure Code : Github [Sony Xperia Dev](https://github.com/sonyxperiadev)
 
-Link        : https://github.com/enggarsulistyo/BraviaEngine
+Link        : Github [Enggar Sulistyo](https://github.com/enggarsulistyo/BraviaEngine)
