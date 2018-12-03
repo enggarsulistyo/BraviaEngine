@@ -12,13 +12,10 @@ Sony's X-Reality™ for mobile technology improves the viewing quality of photos
 
 #### Change Log
 
-* Version : 4.0
-
+Version : 4.0
 - initial release
 
-
-* Version : 4.0.1
-
+Version : 4.0.1
 - Update typo at system.prop
 - Fix Error ilegal package name in magisk log
 - Add libiwiOmx.so in directory lib
