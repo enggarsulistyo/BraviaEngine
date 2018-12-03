@@ -23,7 +23,7 @@ Version : 4.0
 
 Version : 4.0.1
 - Update typo at system.prop
-- Fix error ilegal package name in magisk log
+- Fix error ilegal property name in magisk log
 - Add libiwiOmx.so in directory lib
 
 #
