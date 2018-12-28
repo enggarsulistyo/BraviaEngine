@@ -90,15 +90,15 @@ set_permissions() {
   # The following is default permissions, DO NOT remove
    set_perm_recursive  $MODPATH/system/bin  0  2000   0755    0755
    set_perm_recursive  $MODPATH/system/app  0  0   0755    0644
-   chmod 0755 $MODPATH/system/etc/be_album
-   chmod 0755 $MODPATH/system/etc/be_photo
-   chmod 0755 $MODPATH/system/etc/be_movie
-   chmod 0755 $MODPATH/system/etc/be_movie_setting
-   chmod 0755 $MODPATH/system/etc/be_movie_spc
-   chmod 0755 $MODPATH/system/etc/be2_album
-   chmod 0755 $MODPATH/system/etc/be2_album01
-   chmod 0755 $MODPATH/system/etc/be2_album02
-   chmod 0755 $MODPATH/system/etc/be2_album_mapping
+   chmod 0644 $MODPATH/system/etc/be_album
+   chmod 0644 $MODPATH/system/etc/be_photo
+   chmod 0644 $MODPATH/system/etc/be_movie
+   chmod 0644 $MODPATH/system/etc/be_movie_setting
+   chmod 0644 $MODPATH/system/etc/be_movie_spc
+   chmod 0644 $MODPATH/system/etc/be2_album
+   chmod 0644 $MODPATH/system/etc/be2_album01
+   chmod 0644 $MODPATH/system/etc/be2_album02
+   chmod 0644 $MODPATH/system/etc/be2_album_mapping
    set_perm_recursive  $MODPATH/system/framework  0  0   0755    0644
    set_perm_recursive  $MODPATH/system/lib  0  0   0755    0644
   #set_perm_recursive  $MODPATH  0  0  0755  0644
