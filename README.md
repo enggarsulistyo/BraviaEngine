@@ -1,11 +1,8 @@
 <h1 align="center">
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/QMWW88t/images-picsay.jpg" alt="images-picsay" border="0"></a>
     </h1>
-    <br>
-    <br>
 <h1 align="center"> Sony Bravia Engine X-Reality </h1>
 <br>
-
 <h1 align="center">
     <img src="https://img.shields.io/badge/Version-4.0.2-brightgreen.svg"
       alt="Version" />   |    <img src="https://img.shields.io/badge/Enggar-Sulistyo-blue.svg" alt="enggar">
@@ -44,9 +41,9 @@ Version : 4.0.2
 <br>
 Note :
 <br>
-&nbsp; &nbsp; • Busybox installed required
+&nbsp; &nbsp; &nbsp; &nbsp; • Busybox installed required
 <br>
-&nbsp; &nbsp; • This module is still under development
+&nbsp; &nbsp; &nbsp; &nbsp; • This module is still under development
 <br>
 <br>
 <br>
