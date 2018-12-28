@@ -18,8 +18,8 @@ Super-vivid mode enhances the colour brightness and saturation of your photos an
 <br>
 <br>
 <br>
-<h3 align="left"> Change Log </h3>
-  <br>
+<h4 align="left"> Change Log :</h4>
+<br>
 Version : 4.0
 <br>
 &nbsp; &nbsp; &nbsp; &nbsp; • initial release
