@@ -11,7 +11,9 @@
 This is perfect for the Note II's huge HD screen but can be a little to saturated for people like photographers who want to see how the photo looks exactly with out any enhancements.
 The change is not huge but is definitely noticeable if two devices are compared. 
 Super-vivid mode enhances the colour brightness and saturation of your photos and videos while you view them on your device.
+
 <br>
+
 &nbsp; &nbsp; Sony's X-Reality™ for mobile technology improves the viewing quality of photos and videos after you take them, giving you clearer, sharper and more natural images. X-Reality™ for mobile is turned on by default, but you can turn it off if you want to reduce battery consumption. 
 
 <br>
@@ -34,10 +36,9 @@ Super-vivid mode enhances the colour brightness and saturation of your photos an
 `Busybox installed required `
 
 `This module is still under development `
+
 <br>
-<br>
-<br>
-<br>
-<h4 align="left"> Secure Code :</h4>
+
+#### Secure Code :
 <a href="https://github.com/sonyxperiadev" align="center"><img src="https://img.shields.io/badge/Github-Sony_Developer-yellow.svg?style=for-the-badge&logo=github"></a>
-<h4 align="left">Link :</h4> <a href="https://github.com/enggarsulistyo/BraviaEngine"><img src="https://img.shields.io/badge/Github-Enggar_Sulistyo-green.svg?style=for-the-badge&logo=github"></a>
+#### Link : <a href="https://github.com/enggarsulistyo/BraviaEngine"><img src="https://img.shields.io/badge/Github-Enggar_Sulistyo-green.svg?style=for-the-badge&logo=github"></a>
