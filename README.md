@@ -1,9 +1,8 @@
 <h1 align="center">
   <img src="https://i.ibb.co/QMWW88t/images-picsay.jpg" hight="290" width="480" alt="images-picsay" border="0"></img>
     </h1>
-<h1 align="center"> Sony Bravia Engine X-Reality </h1>
+<h1 align="center"> Sony Bravia Engine X-Reality
 <br>
-<h1 align="center">
     <img src="https://img.shields.io/badge/Version-4.0.2-brightgreen.svg"
       alt="Version" />   |    <img src="https://img.shields.io/badge/Enggar-Sulistyo-blue.svg" alt="enggar">
 </h1>
