@@ -40,11 +40,11 @@ Version : 4.0.2
 <br>
 <br>
 <br>
-<h4>Note :</h4>
-<br>
-&nbsp; &nbsp; &nbsp; &nbsp; • Busybox installed required
-<br>
-&nbsp; &nbsp; &nbsp; &nbsp; • This module is still under development
+
+##### Note :
+`Busybox installed required `
+
+`This module is still under development `
 <br>
 <br>
 <br>
