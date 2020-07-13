@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.ibb.co/QMWW88t/images-picsay.jpg" hight="290" width="480" alt="images-picsay" border="0"></img>
+  <img src="https://i.ibb.co/QMWW88t/images-picsay.jpg" hight="290" width="480" alt="images-picsay" border="0" />
     </h1>
 <h1 align="center"> Sony Bravia Engine X-Reality
 <br>
