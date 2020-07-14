@@ -3,7 +3,7 @@
     </h1>
 <h1 align="center"> Sony Bravia Engine X-Reality
 <br>
-    <img src="https://img.shields.io/badge/Version-4.0.2-brightgreen.svg"
+    <img src="https://img.shields.io/badge/Version-4.0.3-brightgreen.svg"
       alt="Version" />   |    <img src="https://img.shields.io/badge/Enggar-Sulistyo-blue.svg" alt="enggar">
 </h1>
 
@@ -29,6 +29,9 @@ Super-vivid mode enhances the colour brightness and saturation of your photos an
 
 * Version : 4.0.2
   * Fix Permission
+
+* Version : 4.0.3
+  * Migration to update template (Magisk 20+)
 
 <br>
 
