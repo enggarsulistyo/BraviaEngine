@@ -3,7 +3,7 @@
     </h1>
 <h1 align="center"> Sony Bravia Engine X-Reality
 <br>
-    <img src="https://img.shields.io/badge/Version-4.0.3-brightgreen.svg"
+    <img src="https://img.shields.io/badge/Version-4.0.4-brightgreen.svg"
       alt="Version" />   |    <img src="https://img.shields.io/badge/Enggar-Sulistyo-blue.svg" alt="enggar">
 </h1>
 
