@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+    <library name="com.sonymobile.mediacontent_1"
+        file="/system/framework/com.sonymobile.mediacontent.jar"/>
+    <library name="com.sonymobile.mediacontent_2"
+        file="/system/framework/com.sonymobile.mediacontent.jar"/>
+    <library name="com.sonymobile.mediacontent_3"
+        file="/system/framework/com.sonymobile.mediacontent.jar"/>
+    <library name="com.sonymobile.mediacontent_4"
+        file="/system/framework/com.sonymobile.mediacontent.jar"/>
+</permissions>
