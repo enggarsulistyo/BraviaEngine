@@ -33,15 +33,15 @@ Super-vivid mode enhances the colour brightness and saturation of your photos an
 * Version : 4.0.3
   * Migration to update template (Magisk 20+)
 
-*Version : 4.0.4
-  *Update Framework and permission
+* Version : 4.0.4
+  * Update Framework and permission
 
-*Version : 4.0.5
-  *Migration to update template (Magisk 20.4)
-  *KernelSU installer Support
-  *Fixed all permission
-  *Fixed apk not instaled
-  *Fixed bootloop
+* Version : 4.0.5
+  * Migration to update template (Magisk 20.4)
+  * KernelSU installer Support
+  * Fixed all permission
+  * Fixed apk not instaled
+  * Fixed bootloop
 
 <br>
 
